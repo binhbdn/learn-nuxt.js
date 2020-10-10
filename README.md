@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width=200 src="/logos/nuxt.svg">
+  <img height=100 src="/logos/nuxt.svg">
   <br>NUXT.JS
 </h1>
 
