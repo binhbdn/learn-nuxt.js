@@ -31,6 +31,16 @@ See your new page on http://localhost:3000/fun
 See your new page on http://localhost:3000/more-fun
 This will give the same result as creating a more-fun.vue file.
 
+# Using create-nuxt-app for get started quickly
+- npm init nuxt-app <project-name>
+- yarn create nuxt-app <project-name>
+- npx create-nuxt-app <project-name>
+- cd <project-name>
+- npm run dev | yarn dev
+The application is now running on http://localhost:3000. Well done!
+
+
+
 binhbdn@sun:~/Documents/github/learn-nuxt.js/01-install/my-first-nuxtjs-prj$ npm install nuxt
 npm WARN deprecated @nuxt/static@1.0.0: this feature has been moved to the core. you can directly use nuxt generate
 npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
