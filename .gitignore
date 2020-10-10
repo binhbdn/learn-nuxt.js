@@ -3,6 +3,7 @@ node_modules
 
 # logs
 npm-debug.log
+yarn-error.log
 
 # Nuxt build
 .nuxt
@@ -11,3 +12,9 @@ npm-debug.log
 dist
 api/vendor
 api/.env
+
+# Others
+.vscode
+.idea
+.DS_STORE
+.eslintrc
