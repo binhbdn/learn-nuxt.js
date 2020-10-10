@@ -23,6 +23,14 @@
 ✔ Server: Compiled successfully in 2.62s
 ℹ Memory usage: 144 MB (RSS: 215 MB)
 
+# touch pages/fun.vue
+See your new page on http://localhost:3000/fun
+
+# mkdir pages/more-fun
+# touch pages/more-fun/index.vue
+See your new page on http://localhost:3000/more-fun
+This will give the same result as creating a more-fun.vue file.
+
 binhbdn@sun:~/Documents/github/learn-nuxt.js/01-install/my-first-nuxtjs-prj$ npm install nuxt
 npm WARN deprecated @nuxt/static@1.0.0: this feature has been moved to the core. you can directly use nuxt generate
 npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
