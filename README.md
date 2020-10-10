@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img height=100 src="/logos/nuxt.svg">
-  <br>NUXT.JS
+  <img width=200 src="https://nuxtjs.org/logos/nuxt.svg">
+  <br>
+  <img width=200 src="https://nuxtjs.org/logos/built-with-nuxt.svg">
 </h1>
 
 # LEARN NUXT.JS
