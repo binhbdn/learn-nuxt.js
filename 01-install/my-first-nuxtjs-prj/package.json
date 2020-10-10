@@ -1,0 +1,17 @@
+{
+    "name": "my-first-nuxtjs-app",
+    "version": "1.0.0",
+    "description": "for learning of nuxt.js only",
+    "author": "Bùi Đoàn Nghĩa Bình <binh.buidn@gmail.com> (https://github.com/binhbdn/learn-nuxt.js)",
+    "license": "MIT",
+    "private": "true",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "nuxt": "^2.14.6"
+    }
+}
