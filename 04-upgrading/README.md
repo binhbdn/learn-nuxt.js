@@ -1,6 +1,3 @@
-https://nuxtjs.org/guides/get-started/upgrading
-https://github.com/nuxt/nuxtjs.org/blob/master/content/en/guides/get-started/upgrading.md
-
 ---
 title: Upgrading
 description: Upgrading Nuxt.js is quick, but more involved than updating your package.json
@@ -38,3 +35,7 @@ After this step instructions vary depending upon whether you are using Yarn or N
 4. remove `node_modules` directory
 5. Run the `npm install` command
 6. After installation has completed and you have run your tests consider upgrading other dependencies as well. The `npm outdated` command can be used.
+
+from source:<br>
+https://nuxtjs.org/guides/get-started/upgrading<br>
+https://github.com/nuxt/nuxtjs.org/blob/master/content/en/guides/get-started/upgrading.md
