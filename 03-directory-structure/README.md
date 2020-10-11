@@ -6,7 +6,7 @@ These are the main directories and files that we use when building a Nuxt.js app
 - ~$ touch nuxt.config.js
 Creating directories with these names enables features in your Nuxt.js project.
 
-# #I. Directories
+# I. Directories
 # I.1. pages directory
 - contains your application's views and routes
 - learn more about the [pages directory](https://nuxtjs.org/guides/directory-structure/pages)
@@ -35,6 +35,6 @@ export default {<br>
 -  contains all the dependencies and scripts for your application
 
 
-# #II. More about the project structures
+# II. More about the project structures
 - including [content](https://nuxtjs.org/guides/directory-structure/content), [layouts](https://nuxtjs.org/guides/directory-structure/layouts), [middleware](https://nuxtjs.org/guides/directory-structure/middleware), [modules](https://nuxtjs.org/guides/directory-structure/modules), [plugins](https://nuxtjs.org/guides/directory-structure/plugins) and [store](https://nuxtjs.org/guides/directory-structure/store)
-- To learn about all directories in detail, feel free to read the the [Directory Structure book]()
+- To learn about all directories in detail, feel free to read the the [Directory Structure book](https://nuxtjs.org/guides/directory-structure/nuxt)
